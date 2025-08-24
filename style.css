@@ -1,0 +1,26 @@
+.fcontainer{
+  background-image: url(./images/sky-sunset.jpg);
+  background-size: cover;       
+  background-position: center;  
+  min-height: 100vh;  
+  display: flex;      
+  align-items: center;
+  justify-content: center;
+}
+.sh{
+    border-radius: 47%;
+    justify-content: center;
+    align-items: center;
+}
+.skills-icon {
+      font-size: 3rem;
+      color: #0d6efd;
+      margin-bottom: 15px;
+}
+.fcontainer h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+}
+#contact{
+    background-color: #e4e9ef;
+}
