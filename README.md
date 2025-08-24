@@ -1,7 +1,5 @@
 # Capstone Project 2 - E-Portfolio Website
 
-# Capstone Project 2 - E-Portfolio Website
-
 This project is my **personal e-portfolio webpage** built as part of my learning journey in Web Development.  
 It showcases my skills, projects, and achievements using everything I have learned so far.  
 
